@@ -1,7 +1,7 @@
 import unittest
 import xmlrunner
 
-from main1 import DiningExperienceManagerV2, MenuItem
+from main import DiningExperienceManagerV2, MenuItem
 
 class TestDiningExperienceManagerV2(unittest.TestCase):
     def setUp(self):
